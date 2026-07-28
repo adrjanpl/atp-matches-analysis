@@ -1,4 +1,4 @@
-# ATP Tennis Match Prediction: A Machine Learning Approach 
+# Machine Learning models in predicting ATP tennis matches
 
 ## Project Overview
 This repository contains the code and methodology for predicting the outcomes of professional men's ATP tennis matches. The primary goal of this project was to evaluate the predictability of tennis matches across different tournament tiers (Grand Slams, Masters 1000, ATP 250/500, Davis Cup) using Machine Learning algorithms.
