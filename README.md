@@ -67,7 +67,7 @@ To account for the Multiple Comparisons Problem, raw p-values were adjusted usin
 ## Data Source 
 The historical tennis match data used in this project was sourced from the publicly available repository maintained by **Jeff Sackmann**.
 
-The original is mentioned in homepage: [JeffSackmann](https://www.jeffsackmann.com/).
+The original dataset is mentioned in his homepage: [JeffSackmann](https://www.jeffsackmann.com/).
 The dataset seems to be removed from Jeff Sackmann's github.
 
 *Note: For the purpose of this analysis, the raw CSV files were downloaded, merged, and heavily preprocessed to create the final modeling dataset.*
