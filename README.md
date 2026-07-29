@@ -1,7 +1,7 @@
 # Machine Learning models in predicting ATP tennis matches
 
 ## Project Overview
-This repository contains the code and methodology for predicting the outcomes of professional men's ATP tennis matches. The primary goal of this project was to evaluate the predictability of tennis matches across different tournament tiers such as Grand Slams marked as G, Masters 1000 - M, ATP 250/500 - A, Davis Cup - D, Olimpics - O and Final ATP - F using Machine Learning algorithms.
+This repository contains the code and methodology for predicting the outcomes of professional men's ATP tennis matches. The primary goal of this project was to evaluate the predictability of tennis matches across different tournament tiers such as Grand Slams marked as G, Masters 1000 - M, ATP 250/500 - A, Davis Cup - D, Olimpics - O and Final ATP - F using Machine Learning algorithms and compare it with a baseline which is simply picking the higher in ranking player in a specific match.
 
 ## Data Engineering and Preprocessing
 To ensure the models learn meaningful patterns rather than biases, the dataset was transformed using a Player 1 vs Player 2 format. Before this change the data was set in Winner vs Loser schema, which could cause problems for prediction models.
